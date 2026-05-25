@@ -1,7 +1,7 @@
 ### hey, i'm Arian
 **aka iamsopotatoe-coder**
 
-currently working on TinyLoad (PE packer)
+I'm currently working on TinyLoad (PE packer)
 
 ---
 
