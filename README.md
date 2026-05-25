@@ -7,7 +7,7 @@ I'm currently working on TinyLoad (PE packer)
 
 **what coding languages i use**
 
-![Top Languages](https://github-readme-stats-delta-snowy-99.vercel.app/api/top-langs/?username=iamsopotatoe-coder&theme=dark&bg_color=0d0d0d&border_color=333333&title_color=ffffff&text_color=888888&layout=compact&cache_seconds=1)
+![Top Languages](https://github-readme-stats-delta-snowy-99.vercel.app/api/top-langs/?username=iamsopotatoe-coder&exclude_repo=github-readme-stats-delta-snowy-99&theme=dark&bg_color=0d0d0d&border_color=333333&title_color=ffffff&text_color=888888&layout=compact&cache_seconds=1&hide=html,css,typescript)
 
 ---
 
