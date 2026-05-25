@@ -1,4 +1,4 @@
-### hey, i'm Arian Sinani
+### hey, i'm Arian
 **aka iamsopotatoe-coder**
 
 currently working on TinyLoad (PE packer)
