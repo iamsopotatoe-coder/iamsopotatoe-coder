@@ -21,6 +21,8 @@ I'm currently working on TinyLoad (PE packer)
 
 ![GitHub Stats](https://streak-stats.demolab.com?user=iamsopotatoe-coder&theme=dark&background=0d0d0d&border=333333&cache_seconds=1)
 
+[![iamsopotatoe profile views](https://u8views.com/api/v1/github/profiles/229453216/views/day-week-month-total-count.svg)](https://u8views.com/github/iamsopotatoe-coder)
+
 ---
 
 I also like playing Stormworks and War Thunder
